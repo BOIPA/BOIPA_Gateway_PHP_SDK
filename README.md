@@ -9,7 +9,7 @@ This section will give you a very quick introduction as to how you can use it an
 
 ## Before you Begin
 
-Before using the BOIPA Gateway PHP SDK you should be familiar with the contents of the [API Specification for Merchants](https://github.com/BOIPA/BOIPA_Gateway_PHP_SDK/blob/master/docs/0%20-%20BOIPA%20Gateway%20-%200%20-%20Overview.pdf) document as it describes all fields and their meaning within a given payment transaction.
+Before using the BOIPA Gateway PHP SDK you should be familiar with the contents of the [API Specification for Merchants](https://github.com/BOIPA/BOIPA_Gateway_PHP_SDK/blob/master/docs/BOIPA%20Gateway%20-%200%20-%20Overview.pdf) document as it describes all fields and their meaning within a given payment transaction.
 
 ## Setup your Project
 
