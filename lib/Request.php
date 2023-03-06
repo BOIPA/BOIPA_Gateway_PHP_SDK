@@ -83,7 +83,6 @@ class Request extends Executable {
                     unset($data[$check]);
                 }
             }
-			var_dump($data);
         }
         if (isset($ex)) {
             throw $ex;
