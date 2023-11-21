@@ -1,10 +1,10 @@
 <?php
 error_reporting(E_ALL);
 ini_set('display_errors', 1);
-$merchantId = "800145";
+$merchantId = "";
 $password = "u16q9rZ02bW0jqTjxH8t";
 $brandId = "800145000";
-$country = "ES";
+$country = "IE";
 $currency = "EUR";
 //$credit_card_token = "";
 $customer_it_token = "CustomerAccount";
